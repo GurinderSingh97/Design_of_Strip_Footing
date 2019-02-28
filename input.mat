@@ -1,0 +1,52 @@
+%% Load on Wall in KN/m
+# name: Load
+# type: scalar
+180
+
+%% Thickness of Wall in meter
+# name: Thickness_of_Wall
+# type: scalar
+0.3
+
+# name: Fck
+# type: scalar
+20
+
+# name: Fy
+# type: scalar
+415
+
+%% Soil_Pressure is in KN/m^2
+# name: Soil_Pressure
+# type: scalar
+120
+
+%% Assume the Self Weight of the Footing in percentage
+# name: Self_Weight
+# type: scalar
+10
+
+# name: Clear_Cover
+# type: scalar
+60
+
+# name: Side_Cover
+# type: scalar
+60
+
+# name: dia
+# type: scalar
+12
+
+# name: dia_8
+# type: scalar
+8
+
+%% Assume Percentage of Steel for under-reinforced setion
+# name: Steel_Percentage
+# type: scalar
+0.3
+
+# name: Fck_for_column
+# type: scalar
+25
